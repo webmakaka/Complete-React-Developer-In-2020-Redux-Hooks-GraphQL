@@ -5,6 +5,12 @@
 
 ### [Project 1: React Basics](./project1/Readme.md)
 
+<br/>
+
+### 21. State vs Props
+
+![Application](../img/p1-01.png?raw=true)
+
 ---
 
 **Marley**
