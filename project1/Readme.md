@@ -10,6 +10,18 @@
     $ npx create-react-app .
     
 
+<br/>
+
+### 21. State vs Props
+
+![Application](../img/p1-01.png?raw=true)
+
+<br/>
+
+### 24. Filtering State
+
+![Application](../img/p1-02.png?raw=true)
+
 ---
 
 **Marley**
