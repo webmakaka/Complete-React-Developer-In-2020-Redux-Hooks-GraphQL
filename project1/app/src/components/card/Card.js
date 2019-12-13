@@ -1,5 +1,5 @@
 import React from 'react';
-import 'components/card-list/Card.css';
+import 'components/card/Card.css';
 
 export const Card = ({ monster }) => (
   <div className="card-container">

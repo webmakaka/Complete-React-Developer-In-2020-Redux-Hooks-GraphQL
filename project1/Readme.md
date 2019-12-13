@@ -3,6 +3,10 @@
 
 ## Project 1: React Basics
 
+Original src:  
+https://github.com/ZhangMYihua/monsters-rolodex-complete
+
+
 <br/>
 
 ### Development
