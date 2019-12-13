@@ -22,6 +22,12 @@ https://github.com/ZhangMYihua?tab=repositories
     $ cd client
     $ npx create-react-app .
 
++ ESLint Prettier etc.
+
+    $ npm install --save node-sass
+
+![Application](../img/p2-01.png?raw=true)
+
 ---
 
 **Marley**
