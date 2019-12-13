@@ -22,6 +22,17 @@
 
 ![Application](../img/p1-02.png?raw=true)
 
+<br/>
+
+### 26. Search Box Component
+
+
+<br/>
+
+### 33. Deploying Our App
+
+![Application](../img/p1-03.png?raw=true)
+
 ---
 
 **Marley**
