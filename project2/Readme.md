@@ -41,6 +41,15 @@ Also added ESLint Prettier etc.
 
 ![Application](../img/p2-02.png?raw=true)
 
+
+<br/>
+
+### 11. Styling Menu Items
+
+<br/>
+
+![Application](../img/p2-03.png?raw=true)
+
 ---
 
 **Marley**
