@@ -20,8 +20,7 @@
     "format": "prettier --write src/**/*.{js,html}",
     "format:check": "prettier --list-different src/**/*.{js,html}",
     "lint": "eslint src/**/*.{js,html} --quiet",
-    "lint:fix": "eslint --fix src/**/*.{js,html}",
-    "precommit": "lint-staged"
+    "lint:fix": "eslint --fix src/**/*.{js,html}"
   },
   "eslintConfig": {
     "extends": "react-app"
