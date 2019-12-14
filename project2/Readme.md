@@ -50,6 +50,23 @@ Also added ESLint Prettier etc.
 
 ![Application](../img/p2-03.png?raw=true)
 
+
+<br/>
+
+## 5. Master Project React Router and Routing
+
+
+<br/>
+
+### 1. Routing In React
+
+<br/>
+
+### 2. Routing In Our Project
+
+    $ npm install --save react-router-dom
+    
+
 ---
 
 **Marley**
