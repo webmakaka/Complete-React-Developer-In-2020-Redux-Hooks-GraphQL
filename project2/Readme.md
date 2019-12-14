@@ -124,6 +124,15 @@ Also added ESLint Prettier etc.
 
 ![Application](../img/p2-08.png?raw=true)
 
+
+<br/>
+
+### 9. Custom Button Component
+
+<br/>
+
+![Application](../img/p2-09.png?raw=true)
+
 ---
 
 **Marley**
