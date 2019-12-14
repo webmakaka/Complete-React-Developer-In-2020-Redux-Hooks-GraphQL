@@ -94,6 +94,15 @@ Also added ESLint Prettier etc.
 
 ![Application](../img/p2-05.png?raw=true)
 
+
+<br/>
+
+### 4. Header Component
+
+<br/>
+
+![Application](../img/p2-06.png?raw=true)
+
 ---
 
 **Marley**
