@@ -103,6 +103,18 @@ Also added ESLint Prettier etc.
 
 ![Application](../img/p2-06.png?raw=true)
 
+<br/>
+
+### 6. Introducing Forms In React
+
+<br/>
+
+### 7. Sign In Component
+
+<br/>
+
+![Application](../img/p2-07.png?raw=true)
+
 ---
 
 **Marley**
