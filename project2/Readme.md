@@ -115,6 +115,15 @@ Also added ESLint Prettier etc.
 
 ![Application](../img/p2-07.png?raw=true)
 
+
+<br/>
+
+### 8. Form Input Component
+
+<br/>
+
+![Application](../img/p2-08.png?raw=true)
+
 ---
 
 **Marley**
