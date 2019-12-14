@@ -73,6 +73,19 @@ Also added ESLint Prettier etc.
 
 ### 4. withRouter()
 
+
+<br/>
+
+## 6. Master Project Forms + Components
+
+<br/>
+
+### 2. Shop Page
+
+<br/>
+
+![Application](../img/p2-04.png?raw=true)
+
 ---
 
 **Marley**
