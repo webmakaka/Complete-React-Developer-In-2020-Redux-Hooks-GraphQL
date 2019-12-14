@@ -86,6 +86,14 @@ Also added ESLint Prettier etc.
 
 ![Application](../img/p2-04.png?raw=true)
 
+<br/>
+
+### 3. Collection Item
+
+<br/>
+
+![Application](../img/p2-05.png?raw=true)
+
 ---
 
 **Marley**
