@@ -161,7 +161,9 @@ Project Overview --> Web
 
 <br/>
 
+### 5. Google Sign In Authentication
 
+firebase --> Authentication --> Set up sign-in method --> Google --> Enable
 
 ---
 
