@@ -133,6 +133,36 @@ Also added ESLint Prettier etc.
 
 ![Application](../img/p2-09.png?raw=true)
 
+<br/>
+
+## 7. Master Project Firebase + User Authentication
+
+<br/>
+
+### 1. Section Overview
+
+<br/>
+
+### 2. Firebase Introduction
+
+<br/>
+
+### 3. Adding a Project to Firebase
+
+firebase --> create new project
+
+Project Overview --> Web
+
+<br/>
+
+![Application](../img/p2-10.png?raw=true)
+
+    $ npm install --save firebase
+
+<br/>
+
+
+
 ---
 
 **Marley**
