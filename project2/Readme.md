@@ -222,6 +222,10 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ![Application](../img/p2-14.png?raw=true)
 
+<br/>
+
+### 16. Sign In With Email and Password
+
 ---
 
 **Marley**
