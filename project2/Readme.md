@@ -163,7 +163,20 @@ Project Overview --> Web
 
 ### 5. Google Sign In Authentication
 
-firebase --> Authentication --> Set up sign-in method --> Google --> Enable
+firebase.google.com --> Authentication --> Set up sign-in method --> Google --> Enable
+
+
+<br/>
+
+### 7. Google Sign In Authentication 2
+
+http://localhost:3000/signin
+
+click --> Sign in with Google
+
+<br/>
+
+![Application](../img/p2-11.png?raw=true)
 
 ---
 
