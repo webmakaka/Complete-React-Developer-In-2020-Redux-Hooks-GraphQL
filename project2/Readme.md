@@ -178,6 +178,15 @@ click --> Sign in with Google
 
 ![Application](../img/p2-11.png?raw=true)
 
+
+<br/>
+
+### 9. Google Sign In Authentication 3
+
+<br/>
+
+![Application](../img/p2-12.png?raw=true)
+
 ---
 
 **Marley**
