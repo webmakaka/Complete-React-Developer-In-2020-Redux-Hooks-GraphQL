@@ -165,6 +165,7 @@ Project Overview --> Web
 
 firebase.google.com --> Authentication --> Set up sign-in method --> Google --> Enable
 
+firebase.google.com --> Authentication --> Set up sign-in method --> Email/Password --> Enable
 
 <br/>
 
@@ -203,6 +204,23 @@ firebase.google.com --> Database --> Create Database --> test mode
 <br/>
 
 ### 13. Storing User Data In Our App
+
+
+<br/>
+
+### 14. Sign Up Component
+
+<br/>
+
+### 15. Sign Up With Email and Password
+
+<br/>
+
+![Application](../img/p2-13.png?raw=true)
+
+<br/>
+
+![Application](../img/p2-14.png?raw=true)
 
 ---
 
