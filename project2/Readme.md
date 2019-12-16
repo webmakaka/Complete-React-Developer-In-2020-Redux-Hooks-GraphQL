@@ -187,6 +187,18 @@ click --> Sign in with Google
 
 ![Application](../img/p2-12.png?raw=true)
 
+
+<br/>
+
+### 10. Firebase Firestore
+
+firebase.google.com --> Database --> Create Database --> test mode
+
+
+<br/>
+
+### 12. Storing User Data In Firebase
+
 ---
 
 **Marley**
