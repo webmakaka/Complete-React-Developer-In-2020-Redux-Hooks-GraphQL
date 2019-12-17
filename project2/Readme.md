@@ -314,7 +314,13 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ### 16. Adding Multiple Items To Cart
 
+<br/>
 
+### 18. Cart Item Component
+
+<br/>
+
+![Application](../img/p2-18.png?raw=true)
 
 ---
 
