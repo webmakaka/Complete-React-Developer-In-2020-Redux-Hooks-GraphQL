@@ -337,6 +337,11 @@ firebase.google.com --> Database --> Create Database --> test mode
 
     $ npm install --save reselect
 
+
+<br/>
+
+### 23. User Selectors
+
 ---
 
 **Marley**
