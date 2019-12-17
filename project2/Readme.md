@@ -279,6 +279,10 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ### 10. User Redirect and User Action Type
 
+<br/>
+
+### 11. Cart Component
+
 ---
 
 **Marley**
