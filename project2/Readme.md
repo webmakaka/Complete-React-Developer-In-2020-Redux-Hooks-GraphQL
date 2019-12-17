@@ -391,6 +391,20 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ![Application](../img/p2-23.png?raw=true)
 
+<br/>
+
+## 9. Master Project Session Storage + Persistence
+
+<br/>
+
+### 1. Local Storage and Session Storage
+
+<br/>
+
+### 2. Redux Persist
+
+    $ npm install --save redux-persist
+
 ---
 
 **Marley**
