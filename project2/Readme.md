@@ -322,6 +322,15 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ![Application](../img/p2-18.png?raw=true)
 
+
+<br/>
+
+### 20. Selectors in Redux
+
+<br/>
+
+![Application](../img/p2-19.png?raw=true)
+
 ---
 
 **Marley**
