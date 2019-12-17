@@ -377,6 +377,11 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ![Application](../img/p2-22.png?raw=true)
 
+
+<br/>
+
+### 29. Remove Items From Cart
+
 ---
 
 **Marley**
