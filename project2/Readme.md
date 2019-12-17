@@ -331,6 +331,12 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ![Application](../img/p2-19.png?raw=true)
 
+<br/>
+
+### 22. Reselect Library
+
+    $ npm install --save reselect
+
 ---
 
 **Marley**
