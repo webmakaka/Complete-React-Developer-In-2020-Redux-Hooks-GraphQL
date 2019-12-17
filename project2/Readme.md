@@ -305,6 +305,12 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ![Application](../img/p2-17.png?raw=true)
 
+
+<br/>
+
+### 15. Cart Item Reducer
+
+
 ---
 
 **Marley**
