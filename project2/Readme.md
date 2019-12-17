@@ -359,6 +359,16 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ![Application](../img/p2-21.png?raw=true)
 
+
+<br/>
+
+### 26. Extensible Code
+
+
+<br/>
+
+### 27. Dispatch Action Shorthand
+
 ---
 
 **Marley**
