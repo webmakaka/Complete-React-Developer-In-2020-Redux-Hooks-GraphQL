@@ -291,6 +291,11 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ![Application](../img/p2-16.png?raw=true)
 
+
+<br/>
+
+### 13. Implementing Redux In Cart
+
 ---
 
 **Marley**
