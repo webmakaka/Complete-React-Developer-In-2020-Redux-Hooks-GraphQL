@@ -4,7 +4,7 @@ import { withRouter } from 'react-router-dom';
 
 import { createStructuredSelector } from 'reselect';
 
-import { selectCartItems } from 'redux/selectors/cart.selectors.js';
+import { selectCartItems } from 'redux/selectors/cart.selectors';
 
 import CustomButton from 'components/custom-button/CustomButton';
 import CartItem from 'components/cart-item/CartItem';

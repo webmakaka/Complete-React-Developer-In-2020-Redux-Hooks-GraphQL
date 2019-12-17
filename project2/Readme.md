@@ -350,6 +350,15 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ![Application](../img/p2-20.png?raw=true)
 
+
+<br/>
+
+### 25. Checkout Page 2
+
+<br/>
+
+![Application](../img/p2-21.png?raw=true)
+
 ---
 
 **Marley**
