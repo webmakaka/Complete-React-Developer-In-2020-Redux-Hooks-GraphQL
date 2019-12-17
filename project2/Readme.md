@@ -369,6 +369,14 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ### 27. Dispatch Action Shorthand
 
+<br/>
+
+### 28. Checkout Item Component
+
+<br/>
+
+![Application](../img/p2-22.png?raw=true)
+
 ---
 
 **Marley**
