@@ -274,6 +274,11 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ![Application](../img/p2-15.png?raw=true)
 
+
+<br/>
+
+### 10. User Redirect and User Action Type
+
 ---
 
 **Marley**
