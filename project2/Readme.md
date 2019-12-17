@@ -342,6 +342,14 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ### 23. User Selectors
 
+<br/>
+
+### 24. Checkout Page
+
+<br/>
+
+![Application](../img/p2-20.png?raw=true)
+
 ---
 
 **Marley**
