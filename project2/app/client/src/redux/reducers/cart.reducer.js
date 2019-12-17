@@ -1,9 +1,10 @@
 import {
   TOGGLE_CART_HIDDEN,
   ADD_ITEM,
+  REMOVE_ITEM,
   CLEAR_ITEM_FROM_CART
 } from 'redux/types/cart.types.js';
-import { addItemToCart } from 'redux/utils/cart.utils.js';
+import { addItemToCart, removeItemFromCart } from 'redux/utils/cart.utils.js';
 
 const INTITIAL_STATE = {
   hidden: true,
@@ -21,6 +22,12 @@ const cartReducer = (state = INTITIAL_STATE, action) => {
       return {
         ...state,
         cartItems: addItemToCart(state.cartItems, action.payload)
+      };
+
+    case REMOVE_ITEM:
+      return {
+        ...state,
+        cartItems: removeItemFromCart(state.cartItems, action.payload)
       };
 
     case CLEAR_ITEM_FROM_CART:

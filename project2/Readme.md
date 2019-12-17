@@ -382,6 +382,15 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ### 29. Remove Items From Cart
 
+
+<br/>
+
+### 30. Remove Items At Checkout
+
+<br/>
+
+![Application](../img/p2-23.png?raw=true)
+
 ---
 
 **Marley**
