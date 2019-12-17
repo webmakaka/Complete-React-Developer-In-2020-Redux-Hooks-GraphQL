@@ -310,6 +310,11 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ### 15. Cart Item Reducer
 
+<br/>
+
+### 16. Adding Multiple Items To Cart
+
+
 
 ---
 
