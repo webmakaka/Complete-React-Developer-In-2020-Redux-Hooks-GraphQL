@@ -226,6 +226,54 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ### 16. Sign In With Email and Password
 
+<br/>
+
+## 8. Master Project Redux 1
+
+<br/>
+
+### 1. Section Overview
+
+<br/>
+
+### 2. Redux Introduction
+
+<br/>
+
+### 3. Redux Concepts
+
+<br/>
+
+### 4. Redux In Our Application
+
+<br/>
+
+### 5. Redux Actions and Reducers
+
+<br/>
+
+### 6. Setting Up Redux 1
+
+    $ npm install --save redux react-redux redux-logger
+
+<br/>
+
+### 7. Setting Up Redux 2
+
+
+<br/>
+
+### 8. connect() and mapStateToProps
+
+
+<br/>
+
+### 9. mapDispatchToProps
+
+<br/>
+
+![Application](../img/p2-15.png?raw=true)
+
 ---
 
 **Marley**
