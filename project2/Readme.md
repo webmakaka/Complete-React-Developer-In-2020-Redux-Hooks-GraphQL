@@ -283,6 +283,14 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ### 11. Cart Component
 
+<br/>
+
+### 12. Card Dropdown Component
+
+<br/>
+
+![Application](../img/p2-16.png?raw=true)
+
 ---
 
 **Marley**
