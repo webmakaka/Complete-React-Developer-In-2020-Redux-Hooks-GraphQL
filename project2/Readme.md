@@ -417,6 +417,10 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ### 2. Collection State Into Redux
 
+<br/>
+
+### 3. Collection Overview Component
+
 ---
 
 **Marley**
