@@ -413,7 +413,9 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ### 1. Directory State Into Redux
 
+<br/>
 
+### 2. Collection State Into Redux
 
 ---
 

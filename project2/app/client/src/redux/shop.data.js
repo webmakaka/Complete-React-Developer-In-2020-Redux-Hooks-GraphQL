@@ -4,7 +4,7 @@ const SHOP_DATA = [
     title: 'Hats',
     routeName: 'hats',
     items: [
-      {
+      { 
         id: 1,
         name: 'Brown Brim',
         imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
