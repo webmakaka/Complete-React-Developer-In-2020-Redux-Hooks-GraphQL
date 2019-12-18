@@ -405,6 +405,16 @@ firebase.google.com --> Database --> Create Database --> test mode
 
     $ npm install --save redux-persist
 
+<br/>
+
+## 10. Master Project Redux 2
+
+<br/>
+
+### 1. Directory State Into Redux
+
+
+
 ---
 
 **Marley**
