@@ -459,6 +459,43 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ### 3. Data Flow In Our App
 
+<br/>
+
+### 4. Thinking About Data Flow
+
+<br/>
+
+## 13. Master Project Stripe Payments Part 1
+
+<br/>
+
+### 1. Introduction To Stripes
+
+stripe.com
+
+<br/>
+
+### 2. Stripe Integration
+
+    $ npm install --save react-stripe-checkout
+
+
+<br/>
+
+![Application](../img/p2-26.png?raw=true)
+
+Card for testing:
+
+```
+4242 4242 4242 4242 
+Exp: 01/20
+CVV: 123
+```
+
+<br/>
+
+![Application](../img/p2-27.png?raw=true)
+
 ---
 
 **Marley**
