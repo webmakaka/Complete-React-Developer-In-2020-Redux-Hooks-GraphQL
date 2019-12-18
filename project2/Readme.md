@@ -442,6 +442,21 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ### 3. Collection Routing and Selector
 
+<br/>
+
+## 12. Master Project State Normalization
+
+<br/>
+
+### 1. Data Normalization + Collection Page
+
+<br/>
+
+![Application](../img/p2-25.png?raw=true)
+
+
+
+
 ---
 
 **Marley**
