@@ -438,6 +438,10 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ### 2. Improving Naming Of Component
 
+<br/>
+
+### 3. Collection Routing and Selector
+
 ---
 
 **Marley**
