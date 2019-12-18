@@ -455,7 +455,9 @@ firebase.google.com --> Database --> Create Database --> test mode
 ![Application](../img/p2-25.png?raw=true)
 
 
+<br/>
 
+### 3. Data Flow In Our App
 
 ---
 
