@@ -421,6 +421,18 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ### 3. Collection Overview Component
 
+<br/>
+
+## 11. Master Project Advanced Routing
+
+<br/>
+
+### 1. Nested Routing in Shop Page
+
+<br/>
+
+![Application](../img/p2-24.png?raw=true)
+
 ---
 
 **Marley**
