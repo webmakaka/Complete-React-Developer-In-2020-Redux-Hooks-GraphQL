@@ -433,6 +433,11 @@ firebase.google.com --> Database --> Create Database --> test mode
 
 ![Application](../img/p2-24.png?raw=true)
 
+
+<br/>
+
+### 2. Improving Naming Of Component
+
 ---
 
 **Marley**
