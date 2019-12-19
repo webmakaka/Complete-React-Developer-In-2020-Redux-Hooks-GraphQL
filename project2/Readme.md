@@ -544,6 +544,26 @@ CVV: 123
 
 ### 6. styled-components In Our App 3
 
+<br/>
+
+## 16. Master Project Advanced Redux + Firebase
+
+<br/>
+
+### 1. Section Overview
+
+<br/>
+
+### 3. Firebase Refresher
+
+<br/>
+
+### 4. Firebase Refresher 2
+
+<br/>
+
+### 5. Moving Our Shop Data To Firebase
+
 ---
 
 **Marley**
