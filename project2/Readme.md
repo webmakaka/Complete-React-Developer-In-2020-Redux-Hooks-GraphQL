@@ -564,6 +564,15 @@ CVV: 123
 
 ### 5. Moving Our Shop Data To Firebase
 
+<br/>
+
+### 6. Moving Our Shop Data To Firebase 2
+
+<br/>
+
+![Application](../img/p2-28.png?raw=true)
+
+
 ---
 
 **Marley**
