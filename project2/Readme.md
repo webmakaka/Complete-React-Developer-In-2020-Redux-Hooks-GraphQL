@@ -580,6 +580,10 @@ CVV: 123
 
 ### 8. Bringing Shop Data To Our App
 
+<br/>
+
+### 9. Adding Shop Data To Redux
+
 
 ---
 
