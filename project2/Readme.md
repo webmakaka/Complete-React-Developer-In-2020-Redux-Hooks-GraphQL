@@ -540,6 +540,10 @@ CVV: 123
 
 ### 5. styled-components In Our App 2
 
+<br/>
+
+### 6. styled-components In Our App 3
+
 ---
 
 **Marley**
