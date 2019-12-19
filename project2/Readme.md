@@ -501,6 +501,45 @@ CVV: 123
 
 ### 4. Finishing Touches + Look Ahead
 
+<br/>
+
+## 14. Master Project Deploying To Production (Skipped)
+
+<br/>
+
+## 1. Deploying To Heroku
+
+<br/>
+
+## 5. Optimizing Production Build
+
+
+<br/>
+
+## 15. Master Project CSS in JS - styled-components
+
+<br/>
+
+### 1. CSS in JS
+
+<br/>
+
+### 2. styled-components
+
+<br/>
+
+### 3. styled-components In Our App
+
+    $ npm install --save styled-components
+
+<br/>
+
+### 4. Thinking About Tradeoffs
+
+<br/>
+
+### 5. styled-components In Our App 2
+
 ---
 
 **Marley**
