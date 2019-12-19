@@ -585,6 +585,18 @@ CVV: 123
 ### 9. Adding Shop Data To Redux
 
 
+<br/>
+
+## 17. Master Project HOC Patterns
+
+<br/>
+
+### 1. WithSpinner HOC
+
+<br/>
+
+### 2. WithSpinner HOC 2
+
 ---
 
 **Marley**

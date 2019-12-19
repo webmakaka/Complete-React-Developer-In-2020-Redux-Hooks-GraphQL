@@ -1,9 +1,7 @@
-import SHOP_DATA from 'redux/shop.data';
-
 import { UPDATE_COLLECTIONS } from 'redux/types/shop.types.js';
 
 const INITIAL_STATE = {
-  collections: SHOP_DATA
+  collections: null
 };
 
 const shopReducer = (state = INITIAL_STATE, action) => {
