@@ -43,12 +43,6 @@ export const addCollectionAndDocuments = async (
   collectionKey,
   objectsToAdd
 ) => {
-  // console.log('collectionKey');
-  // console.log(collectionKey);
-
-  // console.log('objectsToAdd');
-  // console.log(objectsToAdd);
-
   const collectionRef = firestore.collection(collectionKey);
 
   const batch = firestore.batch();
@@ -58,6 +52,20 @@ export const addCollectionAndDocuments = async (
   });
 
   return await batch.commit();
+};
+
+export const convertCollectionsSnapshotToMap = collections => {
+  const transfomedCollection = collections.docs.map(doc => {
+    const { title, items } = doc.data();
+    return {
+      routeName: encodeURI(title.toLowerCase()),
+      id: doc.id,
+      title,
+      items
+    };
+  });
+
+  console.log(transfomedCollection);
 };
 
 export const auth = firebase.auth();

@@ -572,6 +572,14 @@ CVV: 123
 
 ![Application](../img/p2-28.png?raw=true)
 
+<br/>
+
+### 7. Reviewing What We Have Done
+
+<br/>
+
+### 8. Bringing Shop Data To Our App
+
 
 ---
 
