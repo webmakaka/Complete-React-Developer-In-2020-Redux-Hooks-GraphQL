@@ -635,6 +635,27 @@ CVV: 123
 
 ### 1. Container Pattern
 
+<br/>
+
+### 2. Refactoring Is A Tradeoff
+
+
+## 20. Master Project Redux-Saga
+
+<br/>
+
+### 1. Introduction to Sagas
+
+<br/>
+
+### 2. Generator Functions
+
+<br/>
+
+### 4. redux-saga
+
+    $ npm install --save redux-saga
+
 ---
 
 **Marley**
