@@ -627,6 +627,14 @@ CVV: 123
 
 ### 5. Debugging Our Code
 
+<br/>
+
+## 19. Master Project Container Pattern
+
+<br/>
+
+### 1. Container Pattern
+
 ---
 
 **Marley**
