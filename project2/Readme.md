@@ -603,7 +603,7 @@ CVV: 123
 
 <br/>
 
-## 18. Master Project  Asynchronous Redux
+## 18. Master Project Asynchronous Redux
 
 <br/>
 
@@ -619,7 +619,13 @@ CVV: 123
 
     $ npm install --save redux-thunk
 
-    
+<br/>
+
+### 4. What Does Redux Thunk Do
+
+<br/>
+
+### 5. Debugging Our Code
 
 ---
 
