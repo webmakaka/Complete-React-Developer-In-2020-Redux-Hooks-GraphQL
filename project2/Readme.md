@@ -584,7 +584,6 @@ CVV: 123
 
 ### 9. Adding Shop Data To Redux
 
-
 <br/>
 
 ## 17. Master Project HOC Patterns
@@ -596,6 +595,31 @@ CVV: 123
 <br/>
 
 ### 2. WithSpinner HOC 2
+
+<br/>
+
+### 4. Optional How To Build HOCs
+
+
+<br/>
+
+## 18. Master Project  Asynchronous Redux
+
+<br/>
+
+### 1. Observables + Observer Pattern
+
+<br/>
+
+### 2. Promise Pattern
+
+<br/>
+
+### 3. Redux Thunk
+
+    $ npm install --save redux-thunk
+
+    
 
 ---
 
