@@ -660,6 +660,14 @@ CVV: 123
 
 ### 5. Redux Thunk Into Saga
 
+<br/>
+
+### 6. take(), takeEvery(), takeLatest()
+
+<br/>
+
+### 7. Root Saga
+
 ---
 
 **Marley**
