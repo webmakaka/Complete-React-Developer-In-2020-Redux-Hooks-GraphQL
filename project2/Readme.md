@@ -656,6 +656,10 @@ CVV: 123
 
     $ npm install --save redux-saga
 
+<br/>
+
+### 5. Redux Thunk Into Saga
+
 ---
 
 **Marley**
