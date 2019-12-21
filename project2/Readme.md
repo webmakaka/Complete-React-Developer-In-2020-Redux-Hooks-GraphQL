@@ -668,6 +668,14 @@ CVV: 123
 
 ### 7. Root Saga
 
+<br/>
+
+### 8. Planning Ahead With Sagas
+
+<br/>
+
+### 9. Google Sign In Into Sagas
+
 ---
 
 **Marley**
