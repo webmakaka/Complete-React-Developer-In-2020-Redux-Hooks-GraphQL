@@ -720,6 +720,10 @@ CVV: 123
 
 ### 5. Converting Class Components With useState
 
+<br/>
+
+### 6. useEffect In Our App
+
 ---
 
 **Marley**
