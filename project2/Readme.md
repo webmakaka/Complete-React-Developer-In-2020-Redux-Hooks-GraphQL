@@ -688,6 +688,10 @@ CVV: 123
 
 ### 12. Recreating Persistence
 
+<br/>
+
+### 13. Sign Out With Sagas
+
 ---
 
 **Marley**

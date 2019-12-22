@@ -7,7 +7,7 @@ import CustomButton from 'components/custom-button/CustomButton';
 import {
   googleSignInStart,
   emailSignInStart
-} from 'redux/actions/user.actions.js';
+} from 'redux/actions/user.actions';
 
 import 'components/sign-in/SignIn.scss';
 

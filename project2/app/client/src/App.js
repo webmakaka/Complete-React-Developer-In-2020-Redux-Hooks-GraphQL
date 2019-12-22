@@ -11,7 +11,7 @@ import CheckoutPage from 'pages/checkout/CheckoutPage';
 
 import { selectCurrentUser } from 'redux/selectors/user.selectors';
 
-import { checkUserSession } from 'redux/actions/user.actions.js';
+import { checkUserSession } from 'redux/actions/user.actions';
 
 import './App.css';
 
