@@ -692,6 +692,10 @@ CVV: 123
 
 ### 13. Sign Out With Sagas
 
+<br/>
+
+### 14. Clear Cart Saga
+
 ---
 
 **Marley**

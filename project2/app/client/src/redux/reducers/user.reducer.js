@@ -3,7 +3,7 @@ import {
   SIGN_IN_FAILURE,
   SIGN_OUT_SUCCESS,
   SIGN_OUT_FAILURE
-} from 'redux/types/user.types.js';
+} from 'redux/types/user.types';
 
 const INITIAL_STATE = {
   currentUser: null,

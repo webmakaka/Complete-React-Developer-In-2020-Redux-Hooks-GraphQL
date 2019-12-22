@@ -7,7 +7,7 @@ import {
   SIGN_OUT_START,
   SIGN_OUT_SUCCESS,
   SIGN_OUT_FAILURE
-} from 'redux/types/user.types.js';
+} from 'redux/types/user.types';
 
 export const googleSignInStart = () => ({
   type: GOOGLE_SIGN_IN_START

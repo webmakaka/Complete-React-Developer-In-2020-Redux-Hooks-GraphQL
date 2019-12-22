@@ -5,7 +5,7 @@ import {
   EMAIL_SIGN_IN_START,
   CHECK_USER_SESSION,
   SIGN_OUT_START
-} from 'redux/types/user.types.js';
+} from 'redux/types/user.types';
 
 import {
   signInSuccess,

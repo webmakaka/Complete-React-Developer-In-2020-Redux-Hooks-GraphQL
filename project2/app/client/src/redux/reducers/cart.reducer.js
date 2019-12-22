@@ -2,7 +2,8 @@ import {
   TOGGLE_CART_HIDDEN,
   ADD_ITEM,
   REMOVE_ITEM,
-  CLEAR_ITEM_FROM_CART
+  CLEAR_ITEM_FROM_CART,
+  CLEAR_CART
 } from 'redux/types/cart.types.js';
 import { addItemToCart, removeItemFromCart } from 'redux/utils/cart.utils.js';
 
@@ -36,6 +37,11 @@ const cartReducer = (state = INTITIAL_STATE, action) => {
         cartItems: state.cartItems.filter(
           cartItem => cartItem.id !== action.payload.id
         )
+      };
+    case CLEAR_CART:
+      return {
+        ...state,
+        cartItems: []
       };
 
     default:
