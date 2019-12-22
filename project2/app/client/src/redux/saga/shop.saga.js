@@ -1,9 +1,5 @@
 import { takeLatest, call, put } from 'redux-saga/effects';
-import {
-  FETCH_COLLECTIONS_START,
-  FETCH_COLLECTIONS_SUCCESS,
-  FETCH_COLLECTIONS_FAILURE
-} from '../types/shop.types';
+import { FETCH_COLLECTIONS_START } from '../types/shop.types';
 
 import {
   firestore,

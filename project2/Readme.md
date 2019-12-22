@@ -676,6 +676,10 @@ CVV: 123
 
 ### 9. Google Sign In Into Sagas
 
+<br/>
+
+### 10. Email Sign In Into Sagas
+
 ---
 
 **Marley**
