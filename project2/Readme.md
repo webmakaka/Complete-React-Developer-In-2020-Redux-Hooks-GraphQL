@@ -724,6 +724,39 @@ CVV: 123
 
 ### 6. useEffect In Our App
 
+<br/>
+
+### 7. useEffect as ComponentWillUnmount()
+
+<br/>
+
+### 9. Custom Hooks
+
+<br/>
+
+### 10. Custom Hooks 2
+
+<br/>
+
+### 11. useReducer
+
+<br/>
+
+## 22. Master Project Stripe Payments Part 2 - Backend
+
+<br/>
+
+### 2. Introduction To Backendr
+
+<br/>
+
+### 4. Creating our Server Inside the Project
+
+    $ mkdir api
+    $ cd api
+    $ npm init -y
+    $ npm install -g nodemon
+
 ---
 
 **Marley**
