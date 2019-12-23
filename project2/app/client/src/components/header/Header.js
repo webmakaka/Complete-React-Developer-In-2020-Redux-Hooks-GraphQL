@@ -1,4 +1,5 @@
 import React, { useContext } from 'react';
+import { Link } from 'react-router-dom';
 
 import { auth } from 'firebase/firebase.utils';
 
@@ -6,37 +7,41 @@ import CartIcon from 'components/cart-icon/CartIcon';
 import CartDropdown from 'components/cart-dropdown/CartDropdown';
 
 import CurrentUserContext from 'contexts/current-user/current-user.context';
+import { CartContext } from 'providers/cart/cart.provider';
 
 import { ReactComponent as Logo } from 'assets/crown.svg';
 
-import {
-  HeaderContainer,
-  LogoContainer,
-  OptionsContainer,
-  OptionLink
-} from 'components/header/Header.styles.js';
+import 'components/header/Header.scss';
 
-const Header = ({ hidden }) => {
+const Header = () => {
   const currentUser = useContext(CurrentUserContext);
+  const { hidden } = useContext(CartContext);
+
   return (
-    <HeaderContainer>
-      <LogoContainer to="/">
+    <div className="header">
+      <Link className="logo-container" to="/">
         <Logo className="logo" />
-      </LogoContainer>
-      <OptionsContainer>
-        <OptionLink to="/shop">SHOP</OptionLink>
-        <OptionLink to="/contact">CONTACT</OptionLink>
+      </Link>
+      <div className="options">
+        <Link className="option" to="/shop">
+          SHOP
+        </Link>
+        <Link className="option" to="/shop">
+          CONTACT
+        </Link>
         {currentUser ? (
-          <OptionLink as="div" onClick={() => auth.signOut()}>
+          <div className="option" onClick={() => auth.signOut()}>
             SIGN OUT
-          </OptionLink>
+          </div>
         ) : (
-          <OptionLink to="/signin">SIGN IN</OptionLink>
+          <Link className="option" to="/signin">
+            SIGN IN
+          </Link>
         )}
         <CartIcon />
-      </OptionsContainer>
+      </div>
       {hidden ? null : <CartDropdown />}
-    </HeaderContainer>
+    </div>
   );
 };
 

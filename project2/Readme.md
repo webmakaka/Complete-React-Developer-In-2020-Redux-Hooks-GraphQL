@@ -806,6 +806,21 @@ CVV: 123
 
 ### 4. Context Provider
 
+<br/>
+
+### 5. Cart Context
+
+<br/>
+
+### 6. Provider Context Pattern
+
+<br/>
+
+### 7. Provider Context Pattern 2
+
+<br/>
+
+### 8. Redux vs Context API
 
 ---
 
