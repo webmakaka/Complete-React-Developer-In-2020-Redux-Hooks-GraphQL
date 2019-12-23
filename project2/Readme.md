@@ -600,7 +600,6 @@ CVV: 123
 
 ### 4. Optional How To Build HOCs
 
-
 <br/>
 
 ## 18. Master Project Asynchronous Redux
@@ -768,6 +767,22 @@ CVV: 123
 <br/>
 
 ### 7. Backend Payment Route
+
+<br/>
+
+### 8. Connecting Client To Server
+
+    $ cd ../client/
+    $ npm install --save axios
+
+
+<br/>
+
+![Application](../img/p2-29.png?raw=true)
+
+<br/>
+
+![Application](../img/p2-30.png?raw=true)
 
 ---
 

@@ -4,7 +4,7 @@ import bodyParser from 'body-parser';
 
 if (process.env.NODE_ENV !== 'production') require('dotenv').config();
 
-const stripe = import('stripe')(process.env.STRIPE_SECRET_KEY);
+const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
 
 const app = express();
 const port = process.env.PORT || 5000;
