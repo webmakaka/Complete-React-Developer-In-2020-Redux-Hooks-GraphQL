@@ -638,6 +638,7 @@ CVV: 123
 
 ### 2. Refactoring Is A Tradeoff
 
+<br/>
 
 ## 20. Master Project Redux-Saga
 
@@ -783,6 +784,24 @@ CVV: 123
 <br/>
 
 ![Application](../img/p2-30.png?raw=true)
+
+
+<br/>
+
+### 9. Deploying To Production
+
+<br/>
+
+## 23. Master Project Context API
+
+<br/>
+
+### 2. Introduction To Context API
+
+<br/>
+
+### 3. Context Consumer + useContext Hook
+
 
 ---
 
