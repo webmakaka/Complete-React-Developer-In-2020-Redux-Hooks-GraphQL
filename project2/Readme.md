@@ -761,6 +761,14 @@ CVV: 123
 
 ### 5. Building A Basic Server
 
+<br/>
+
+### 6. What We Are Building
+
+<br/>
+
+### 7. Backend Payment Route
+
 ---
 
 **Marley**
