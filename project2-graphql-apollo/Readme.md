@@ -35,9 +35,12 @@ graphql - https://crwn-clothing.com/
 
     $ cd client
     $ git clone https://github.com/ZhangMYihua/graphql-lesson .
+    $ rm -rf .git
 
     $ npm install
     $ npm install --save apollo-boost react-apollo graphql
+
+
 
 ---
 
