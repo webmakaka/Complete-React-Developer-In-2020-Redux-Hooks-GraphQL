@@ -39,6 +39,10 @@ graphql - https://crwn-clothing.com/
     $ npm install
     $ npm install --save apollo-boost react-apollo graphql
 
+<br/>
+
+![Application](../img/p2-31.png?raw=true)
+
 ---
 
 **Marley**
