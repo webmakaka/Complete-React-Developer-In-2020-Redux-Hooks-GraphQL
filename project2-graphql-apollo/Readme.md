@@ -43,7 +43,9 @@ graphql - https://crwn-clothing.com/
 
 ![Application](../img/p2-31.png?raw=true)
 
+<br/>
 
+### 7. Apollo Container
 
 
 ---
