@@ -51,6 +51,18 @@ graphql - https://crwn-clothing.com/
 
 ### 9. Query With Variables
 
+<br/>
+
+### 10. GraphQL vs Redux
+
+<br/>
+
+### 11. Mutations On The Client
+
+<br/>
+
+### 13. Mutations On The Client 2
+
 
 ---
 
