@@ -822,6 +822,12 @@ CVV: 123
 
 ### 8. Redux vs Context API
 
+<br/>
+
+## 24. Master Project GraphQL + Apollo
+
+
+
 ---
 
 **Marley**
