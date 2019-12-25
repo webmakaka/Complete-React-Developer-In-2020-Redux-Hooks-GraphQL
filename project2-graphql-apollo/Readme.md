@@ -11,6 +11,9 @@ https://github.com/ZhangMYihua/graphql-lesson
 
 # Development
 
+Original src (can be helpful):  
+https://github.com/ZhangMYihua/graphql-practice
+
 <br/>
 
 ## 24. Master Project GraphQL + Apollo
@@ -66,6 +69,18 @@ graphql - https://crwn-clothing.com/
 <br/>
 
 ### 14. Adding Items With Apollo
+
+<br/>
+
+### 15. Adding Items With Apollo 2
+
+Adding items to cart works on page:  
+http://localhost:3000/shop
+
+Not Works on pages:  
+http://localhost:3000/shop/hats
+
+
 
 
 ---
