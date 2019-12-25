@@ -14,6 +14,9 @@ https://github.com/ZhangMYihua/graphql-lesson
 Original src (can be helpful):  
 https://github.com/ZhangMYihua/graphql-practice
 
+Final:  
+https://github.com/ZhangMYihua/graphql-practice-complete
+
 <br/>
 
 ## 24. Master Project GraphQL + Apollo
@@ -40,7 +43,7 @@ graphql - https://crwn-clothing.com/
     $ git clone https://github.com/ZhangMYihua/graphql-lesson .
 
     $ npm install
-    $ npm install --save apollo-boost react-apollo graphql
+    $ npm install --save apollo-boost@0.4.2 react-apollo@2.5.6 graphql
 
 <br/>
 
@@ -81,6 +84,9 @@ Not Works on pages:
 http://localhost:3000/shop/hats
 
 
+<br/>
+
+### 17. CartItem Count With Apollo
 
 
 ---
